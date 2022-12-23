@@ -1,17 +1,17 @@
 {
-  "name": "test-client-repo",
-  "version": "1.0.0",
-  "description": "Test repository",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/astro-naughty/test-client-repo.git"
-  },
-  "author": "Marcin Rogalski",
-  "bugs": {
-    "url": "https://github.com/astro-naughty/test-client-repo/issues"
-  },
-  "homepage": "https://github.com/astro-naughty/test-client-repo#readme",
-  "dependencies": {
-    "test-dep": "^1.0.0"
-  }
+    "name": "test-client-repo",
+    "version": "1.0.0",
+    "description": "Test repository",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/astro-naughty/test-client-repo.git"
+    },
+    "author": "Marcin Rogalski",
+    "bugs": {
+        "url": "https://github.com/astro-naughty/test-client-repo/issues"
+    },
+    "homepage": "https://github.com/astro-naughty/test-client-repo#readme",
+    "dependencies": {
+        "test-dep": "1.2.3b"
+    }
 }
