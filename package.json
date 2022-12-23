@@ -12,6 +12,6 @@
   },
   "homepage": "https://github.com/astro-naughty/test-client-repo#readme",
   "dependencies": {
-    "test-dep": "^1.0.0"
+    "test-dep": "4.10.10"
   }
 }
